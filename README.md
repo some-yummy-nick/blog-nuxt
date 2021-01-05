@@ -1,5 +1,5 @@
 # blog
-https://tocode.ru/demo/c/vue-pro/blog-nuxt/blog
+https://some-yummy-blog-nuxt.netlify.app/
 ## Build Setup
 
 ```bash
