@@ -1,0 +1,25 @@
+.status.true {
+  color: #8bc34a;
+}
+.status {
+  margin-right: 10px;
+}
+
+.status.true:before {
+  background: #8bc34a;
+}
+.status:before {
+  display: inline-block;
+  content: "\A";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.status.false {
+  color: #ff5722;
+}
+
+.status.false:before {
+  background: #ff5722;
+}
