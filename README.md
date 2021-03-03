@@ -1,3 +1,5 @@
+![screenshot](https://github.com/some-yummy-nick/vue-blog-nuxt/blob/master/vue-blog-nuxt.png)
+
 # blog
 https://some-yummy-vue-blog-nuxt.netlify.app/
 ## Build Setup
